@@ -1,0 +1,18 @@
+<resources>
+
+  <string name="gettipsi_card_number">卡号</string>
+  <string name="gettipsi_save">救</string>
+  <string name="gettipsi_card_cvc">CVC</string>
+  <string name="gettipsi_google_pay_unavaliable">您的设备上无法使用Google Pay。</string>
+  <string name="gettipsi_user_cancel_dialog">一位用户取消了该对话框。 没有添加标签！</string>
+  <string name="gettipsi_card_enter_dialog_title">輸入信用卡</string>
+  <string name="gettipsi_card_enter_dialog_positive_button">傳送</string>
+  <string name="gettipsi_card_enter_dialog_negative_button">取消</string>
+  <string name="gettipsi_card_number_label">請填寫信用卡號碼，有效日期，卡背三位號碼</string>
+
+  <string-array name="gettipsi_currency_array">
+    <item>货币（可选）</item>
+    <item>未指定</item>
+    <item>USD</item>
+  </string-array>
+</resources>
